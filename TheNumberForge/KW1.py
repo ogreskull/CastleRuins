@@ -58,4 +58,4 @@ print(kw1solver(3,4,1))
 # assert kw1solver(2,4,2) == 14
 # assert kw1solver(3,3,1) == 17
 # assert kw1solver(3,4,2) == 50
-# assert kw1solver(3,4,1) == 24
+# assert kw1solver(3,4,1) == 26
