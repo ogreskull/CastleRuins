@@ -51,11 +51,11 @@ def kw1solver(milled_key_length, milled_key_depth, milled_key_mac):
 
 print(kw1solver(3,4,1))
 
-# assert kw1solver(2,6,6) == 36
-# assert kw1solver(2,6,5) == 36
-# assert kw1solver(2,6,4) == 34
-# assert kw1solver(2,6,3) == 30
-# assert kw1solver(2,4,2) == 14
-# assert kw1solver(3,3,1) == 17
-# assert kw1solver(3,4,2) == 50
-# assert kw1solver(3,4,1) == 26
+assert kw1solver(2,6,6) == 36
+assert kw1solver(2,6,5) == 36
+assert kw1solver(2,6,4) == 34
+assert kw1solver(2,6,3) == 30
+assert kw1solver(2,4,2) == 14
+assert kw1solver(3,3,1) == 17
+assert kw1solver(3,4,2) == 50
+assert kw1solver(3,4,1) == 26
